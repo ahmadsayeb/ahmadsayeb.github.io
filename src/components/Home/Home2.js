@@ -19,36 +19,34 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I'm passionate about data engineering, machine learning, and building scalable systems that transform raw data into valuable insights.
               <br />
-              <br />I am fluent in classics like
+              <br />I am proficient in languages like
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> Python, Go, SQL, and Bash. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My areas of expertise include building &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
+                <b className="purple">Large Language Models and ML Systems </b> and
+                also in fields related to{" "}
                 <b className="purple">
-                  Blockchain.
+                  Cloud Infrastructure and Data Engineering.
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              I enjoy architecting and implementing solutions with <b className="purple">AWS Services</b> and
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  Modern Data Processing and ML Technologies
                 </b>
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> Kubernetes, FastAPI, and PyTorch</b>
               </i>
             </p>
           </Col>
